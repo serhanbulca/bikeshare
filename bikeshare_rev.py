@@ -17,6 +17,7 @@ def get_filters():
 
     check_input = 0
 
+	#unneccessary change
     while check_input==0:
 
           city = input('Would you like to see data for chicago, new york city, or washington?')
